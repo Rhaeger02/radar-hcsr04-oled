@@ -1,5 +1,5 @@
-// ================= NOTAS IMPORTANTES =================
-/*
+# NOTAS
+
 CONEXIONES:
 OLED -> Arduino:
   GND -> GND
@@ -32,4 +32,3 @@ PROBLEMAS COMUNES:
 1. Si la pantalla no enciende, verifica la dirección I2C (puede ser 0x3D)
 2. Si el servo vibra o no se mueve suave, verifica la alimentación (usar fuente externa si es necesario)
 3. Si las lecturas son erráticas, asegura bien las conexiones del HC-SR04
-*/
